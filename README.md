@@ -1,6 +1,6 @@
 Welcome to the Deep Learning Projects Repository curated by Anup. This repository serves as a comprehensive collection of diverse deep learning projects, showcasing various applications, methodologies, and implementations in Python.
 
-Purpose: The primary aim of this repository is to provide a centralized hub for exploring and learning about deep learning through practical projects. Each project offers insights into different domains, techniques, and best practices in the field of machine learning.
+Purpose: The primary aim of this repository is to provide a centralized hub for exploring and learning about deep learning through practical projects. Each project offers insights into different domains, techniques, and best practices in the field of deep learning.
 
 How to Use: Browse Projects: Explore the repository to discover projects that interest you. Each project is accompanied by a detailed README file providing an overview of the problem statement, methodology, results, and business implications.
 
