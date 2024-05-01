@@ -1,4 +1,4 @@
-raffic Signs Recognition
+#Traffic Signs Recognition
 Overview
 This project aims to develop a deep learning model for recognizing traffic signs using artificial neural networks (ANNs) and convolutional neural networks (CNNs). The model is trained to classify different types of traffic signs commonly found on roads.
 
